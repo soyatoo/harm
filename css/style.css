@@ -103,7 +103,8 @@ body {
 
 th {
     text-align: left;
-    padding: 16, 40, 0, 0;
+    border: 1px black solid;
+    border-spacing: 40px;
 }
 
 /* Responsive Rules */
