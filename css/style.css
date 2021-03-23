@@ -105,11 +105,15 @@ th {
     text-align: left;
     border-bottom: 1px black solid;
     padding-right: 24px;
+    vertical-align: bottom;
+    padding-bottom: 16px;
 }
 
-th, td {
+td {
     vertical-align: top;
     padding-top: 16px;
+    border-bottom: grey 1px solid;
+    padding-left: 8px;
 }
 
 table {
