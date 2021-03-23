@@ -99,6 +99,13 @@ body {
     max-width: 150px;
 }
 
+/* Tables */
+
+th {
+    text-align: left;
+    padding: 16, 40, 0, 0;
+}
+
 /* Responsive Rules */
 
 /* Tablet */
