@@ -78,7 +78,7 @@ body {
 }
 
 .smallChunk {
-    padding: 4px 0px 4px 0px;
+    padding: 8px 0px 8px 0px;
 }
 
 .largeChunk {
@@ -111,7 +111,7 @@ th {
 
 td {
     vertical-align: top;
-    padding: 16px 16px 16px 24px;
+    padding: 16px 8px 16px 24px;
     border-bottom: #ececec 1px solid;
 }
 
