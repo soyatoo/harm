@@ -103,8 +103,12 @@ body {
 
 th {
     text-align: left;
-    border: 1px black solid;
-    border-spacing: 40px;
+    border-bottom: 1px black solid;
+    padding-right: 24px;
+}
+
+table {
+    width: 150%;
 }
 
 /* Responsive Rules */
