@@ -105,10 +105,12 @@ th {
     text-align: left;
     border-bottom: 1px black solid;
     padding-right: 24px;
+    padding-top: 16px;
 }
 
 table {
     width: 150%;
+    vertical-align: top;
 }
 
 /* Responsive Rules */
